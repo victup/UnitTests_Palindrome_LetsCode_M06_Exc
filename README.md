@@ -1,4 +1,4 @@
-# Palindrome Unit Tests
+# Palindromo Unit Tests
 
 Esse programa aplica os primeiros conceitos de Testes unitários em C#.
 
